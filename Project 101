@@ -1,0 +1,8 @@
+import dice
+def count_timer(dice):
+
+      print(dice)
+      print("dice")
+
+dice=input("Enter the number of dice")
+count_timer(int(dice))
